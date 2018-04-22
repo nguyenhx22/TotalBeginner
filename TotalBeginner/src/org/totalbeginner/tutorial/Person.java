@@ -5,9 +5,7 @@ public class Person {
 	//Fields
 	private String name;        //name of person
 	private int maximumBooks;   //Max books person can check out
-	
-	// fake comment
-	
+
 	//Constructor
 	public Person() {
 		name = "unknown name";
