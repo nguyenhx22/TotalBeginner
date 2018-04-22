@@ -1,0 +1,4 @@
+//To run:  Highlight and right-click  inspect;  To get expressionsint a = 20;
+int b = 50;
+int c=a+b;
+cint a = 5;a = a * 10;a//To run: Highlight and right-click Execute;  Cause these are actual execution commandsSystem.out.println("Hello Hien");//Since scrapbook in not part of package, it will not know which Person class to use.  //Have to set import declaration for running code.  This is near the Inspect button (magnify glass)Person p = new Person();p.setName("Fred");p  
